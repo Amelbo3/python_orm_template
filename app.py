@@ -1,3 +1,4 @@
+#imports:
 from models import *
 from database import *
 
@@ -10,6 +11,9 @@ def function_y():
     pass
 
 def function_z():
+    pass
+
+def function_else():
     pass
 
 
@@ -37,18 +41,7 @@ def main():
 
         else:
 
-
-
-
-
-
-
-
-
-
-
-
-
+            function_else()
 
 if __name__ == "__main__":
     main()

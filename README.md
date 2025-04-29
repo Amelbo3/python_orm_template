@@ -8,7 +8,7 @@ This is a python project template for building your project.
 
 2 - Rename your project
 
-3 - Remove .git folder
+3 - Delete .git , .gitignore, LICENCE, README.md
 
 4 - Open your project with "Command Prompt" and Create your Virtual Environment ("python -m venv venv")
 
