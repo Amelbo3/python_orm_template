@@ -3,15 +3,41 @@ from database import *
 
 
 
+def function_x():
+    pass
 
+def function_y():
+    pass
 
+def function_z():
+    pass
 
 
 
 def main():
 
+    while True:
 
-    pass
+        user_input = input("Veuillez saisir 1: New User, 2: Transfert : >> ")
+
+        if user_input == "X":
+            
+            function_x()
+
+
+        elif user_input == "Y":
+
+            function_y()
+
+        
+        elif user_input == "Z":
+
+            function_z()
+        
+
+        else:
+
+
 
 
 
